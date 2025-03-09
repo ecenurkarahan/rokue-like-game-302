@@ -1,25 +1,5 @@
 # Comp302 Group Project
 
-## Rules
-
-All rules in this guide must be followed or might get replaced without warning.
-
-### Branch Naming Conventions
-
-Branch names must follow this naming convention:
-
-1. **fix/...**: Branches dedicated to fixing specific issues or bugs in the codebase.
-2. **feat/...**: Branches focused on implementing new features or functionalities.
-3. **wip/...**: Branches indicating work-in-progress, often for incomplete features or experimental changes.
-4. **refactor/...**: Branches for refactoring existing code to improve its structure, readability, or performance.
-5. **hotfix/...**: Branches for addressing critical issues or bugs that require immediate action.
-6. **test/...**: Branches for testing purposes, such as writing or updating unit tests.
-7. **data/...**: Branches focused on data-related tasks, such as cleaning, augmentation, or transformation scripts.
-8. **exp/...**: Branches for experimental features or models that may not be finalized.
-9. **doc/...**: Branches for updating documentation, such as README, notebooks, or code comments.
-
-## Project Structure
-
-The project is organized as follows:
-
-- will be updated
+“Rokue-Like” is an adventurous and dynamic dungeon exploration game similar to the genre of rogue-like games, where players take on the role of a hero tasked with locating powerful runes scattered across four challenging halls—Earth, Air, Water, and Fire. The hero must overcome various monsters, like archers, fighters, and wizards to go through all elemental halls to succeed. The hero must use their wits, timing, and enchantments to avoid these threats and uncover the runes before time or their lives run out. With the ability to customize the halls they will face with a variety of items, strategic gameplay, and immersive designs, Rokue-Like provides an exciting, challenging experience that tests players' problem-solving and survival instincts.
+# Project info
+This project is done by a group of 6 computer engineering students. I was responsible from the implementation of most of the software patterns.
